@@ -6,9 +6,6 @@ const validar=document.querySelector('#validar')
 let creditCard=document.getElementById('creditCard');
 const result=document.getElementById('result')
 
-
-
-
 comprar.addEventListener("click", (e)=> {
   e.preventDefault();
     document.getElementById("formulario").style.display = "block";
@@ -38,11 +35,6 @@ validar.addEventListener("click", (e)=> {
     console.log(validator.maskify(creditCard.value))
  
       
-
-
-
-
-
 
    
 console.log(validator);
