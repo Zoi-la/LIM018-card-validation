@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Resumen del proyecto](#2-resumen-del-proyecto)
+* [1. Resumen del proyecto]
 * [2. Prototipo
 
 
@@ -31,8 +31,6 @@ Usuario desea comprar en un ambiente seguro con su tarjeta de crédito, para ell
 ## 2. Prototipo
 
 
-
-
-
+![Prototipo](https://user-images.githubusercontent.com/105660261/176073997-67e7adf7-cf7b-4624-a18b-90f40c61f708.png)
 
 
